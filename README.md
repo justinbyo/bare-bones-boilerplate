@@ -2,7 +2,7 @@
 This is a very simple, bare-bones boilerplate I use to start building webpages quickly.
 
 ## index.html
-I adapted this from HTML5 boilerplate and updated the pathsto reflect the way I've organized my files.
+I adapted this from HTML5 boilerplate and updated the paths to reflect the way I've organized my files.
 
 ## Resources
 The folders for resources like JavaScript and LESS stylesheets are in semantic folders preceded with an underscore so they stay at the top of my directory, i.e. **/_js** and **/_less**.
@@ -13,7 +13,7 @@ I happen to use LESS as my compiler of choice. The primary CSS stylesheet **main
 ## JavaScript
 **main.js** is the primary script I use. It's compressed to **main.min.js**, which is included in **index.html**.
 
-## CodeKet
+## CodeKit
 I use CodeKit when I work locally. I may or may not update the boilerplate to use Grunt.js in the future. For now, **codekit-config.json** sets up the project settings in CodeKit and compiles and minifies files to the correct destination.
 
 ## Fin
