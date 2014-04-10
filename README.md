@@ -1,4 +1,4 @@
-# Simple HTML boilerplate
+# Simple site boilerplate
 This is a very simple, bare-bones boilerplate I use to start building webpages quickly.
 
 ## index.html
